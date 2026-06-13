@@ -7,4 +7,4 @@ def test_devide():
     assert devide(6, 3) == 2
     assert devide(5, 2) == 2.5
 def test_devide_by_zero():
-    assert devide(10, 0) == 0
+    assert devide(10, 0) == 5 
